@@ -1,62 +1,24 @@
-Title,Citation,Year
-,,
-,,
-"Collaborative Differentially Private Federated Learning Framework for the Prediction of Diabetic Retinopathy
-I Hossain, S Puppala, S Talukder
-2nd IEEE International Conference on AI in Cybersecurity (ICAIC)",19,2023
-"Introduction of Medical Imaging Modalities
-SKMS Islam, MA Al Nasim, I Hossain, S Talukder",17,2023
-"Towards Federated Learning Based Contraband Detection Within Airport Baggage X-Rays
-S Puppala, I Hossain, S Talukder
-2022 IEEE International Conference on Machine Learning and Applied Network …",14,2023
-"Federated Learning-based Contraband Detection within Airport Baggage X-Rays
-S Talukder, I Hossian, S Puppala
-Journal of Computing Sciences in Colleges 38 (3), 218",11,2023
-"Active learning on medical image
-A Biswas, NM Abdullah Al, MS Ali, I Hossain, MA Ullah, S Talukder
-Data Driven Approaches on Medical Imaging, 51-67",9,2023
-"A Novel Hierarchical Federated Learning with Self-Regulated Decentralized Clustering
-S Talukder, I Hossian, S Puppala
-Journal of Computing Sciences in Colleges 38 (3), 222-223",9,2023
-"Prediction of Childhood and Pregnancy Lead Poisoning Using Deep Learning
-S Talukder, S Puppala, I Hossain
-Journal of Computing Sciences in Colleges 38 (3), 219",7,2023
-"Machine Learning and Sentiment Analysis for Predicting Environmental Lead Toxicity in Children at the ZIP Code Level
-S Puppala, I Hossain, S Talukder
-2nd IEEE International Conference on AI in Cybersecurity (ICAIC)",6,2023
-"AutoML Systems For Medical Imaging
-TT Jidney, A Biswas, MA Al Nasim, MJ Alam, I Hossain, S Talukder",5,2023
-"SocialRec: User Activity Based Post Weighted Dynamic Personalized Post Recommendation System in Social Media
-I Hossain, MJ Alam, S Puppala, S Talukder
-The 16th International Conference on Advances in Social Networks Analysis …",4,2024
-"A Visual Approach to Tracking Emotional Sentiment Dynamics in Social Network Commentaries
-I Hossain, S Puppala, MJ Alam, S Talukder
-18th International AAAI Conference on Web and Social Media (ICWSM 2024), 11",4,2024
-"Towards Addressing Identity Deception in Social Media using Bangla Text-Based Gender Identification
-S Ahmed, MJ Alam, S Talukder, I Hossain
-2023 IEEE/ACM International Conference on Advances in Social Networks …",4,2023
-"Monitoring Dynamics of Emotional Sentiment in Social Network Commentaries
-I Hossain, S Puppala, MJ Alam, S Talukder
-2023 IEEE/ACM International Conference on Advances in Social Networks …",4,2023
-"EVOLVE: Predicting User Evolution and Network Dynamics in Social Media Using Fine-Tuned GPT-like Model
-I Hossain, MJ Alam, S Puppala, S Talukder
-The 16th International Conference on Advances in Social Networks Analysis …",3,2024
-"SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
-S Puppala, I Hossain, MJ Alam, S Talukder","2
+Title,URL,Citation,Year
+Collaborative Differentially Private Federated Learning Framework for the Prediction of Diabetic Retinopathy,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:2osOgNQ5qMEC,19,2023
+Introduction of Medical Imaging Modalities,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:eQOLeE2rZwMC,18,2023
+Towards Federated Learning Based Contraband Detection Within Airport Baggage X-Rays,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:d1gkVwhDpl0C,14,2023
+Federated Learning-based Contraband Detection within Airport Baggage X-Rays,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:UeHWp8X0CEIC,11,2023
+Active learning on medical image,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:Tyk-4Ss8FVUC,9,2023
+A Novel Hierarchical Federated Learning with Self-Regulated Decentralized Clustering,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:IjCSPb-OGe4C,9,2023
+Prediction of Childhood and Pregnancy Lead Poisoning Using Deep Learning,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:qjMakFHDy7sC,7,2023
+Machine Learning and Sentiment Analysis for Predicting Environmental Lead Toxicity in Children at the ZIP Code Level,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:zYLM7Y9cAGgC,6,2023
+A Visual Approach to Tracking Emotional Sentiment Dynamics in Social Network Commentaries,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:_FxGoFyzp5QC,5,2024
+AutoML Systems For Medical Imaging,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:WF5omc3nYNoC,5,2023
+Towards Addressing Identity Deception in Social Media using Bangla Text-Based Gender Identification,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:YsMSGLbcyi4C,5,2023
+Monitoring Dynamics of Emotional Sentiment in Social Network Commentaries,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:Y0pCki6q_DkC,5,2023
+SocialRec: User Activity Based Post Weighted Dynamic Personalized Post Recommendation System in Social Media,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:5nxA0vEk-isC,4,2024
+EVOLVE: Predicting User Evolution and Network Dynamics in Social Media Using Fine-Tuned GPT-like Model,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:Se3iqnhoufwC,3,2024
+"Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future",https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:KlAtU1dfN6UC,2,2024
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:Zph67rFs4hoC,"2
 *",
-"Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future
-S Puppala, I Hossain, MJ Alam, S Talukder",1,2024
-"FLASH: Federated Learning-Based LLMs for Advanced Query Processing in Social Networks through RAG
-I Hossain, MJ Alam, S Puppala, S Talukder
-The 16th International Conference on Advances in Social Networks Analysis …","1
+FLASH: Federated Learning-Based LLMs for Advanced Query Processing in Social Networks through RAG,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:MXK_kJrjxJIC,"1
 *",2024
-"SocFedGPT: Federated GPT-based Adaptive Content Filtering System Leveraging User Interactions in Social Networks
-I Hossain, MJ Alam, S Puppala, S Talukder
-The 16th International Conference on Advances in Social Networks Analysis …","1
+SocFedGPT: Federated GPT-based Adaptive Content Filtering System Leveraging User Interactions in Social Networks,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:0EnyYjriUFMC,"1
 *",2024
-"Combating Identity Attacks in Online Social Networks: A Multi-Layered Framework Using Zero-Knowledge Proof and Permissioned Blockchain
-MJ Alam, I Hossain, S Puppala, S Talukder
-2023 IEEE/ACM International Conference on Advances in Social Networks …",1,2023
-"Natural Language Processing for Predictive Maintenance in Nuclear Power Plant: Digital Twin Context
-RB Hossain, I Hossain, S Talukder, SB Alam
-Transactions of the American Nuclear Society (ANS)",,2024
+Combating Identity Attacks in Online Social Networks: A Multi-Layered Framework Using Zero-Knowledge Proof and Permissioned Blockchain,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:W7OEmFMy1HYC,1,2023
+Natural Language Processing for Predictive Maintenance in Nuclear Power Plant: Digital Twin Context,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FexryyIAAAAJ&citation_for_view=FexryyIAAAAJ:roLk4NBRz8UC,,2024

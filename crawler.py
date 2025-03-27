@@ -9,6 +9,7 @@ from urllib.parse import urlparse, parse_qs
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from fetch_author_papers import fetch_author_papers
 
 # Set up headless mode
 chrome_options = Options()
@@ -22,17 +23,25 @@ driver = webdriver.Chrome(options=chrome_options)
 
 # Open the target webpage
 
-# name = "jahangir"
-# driver.get('https://scholar.google.com/citations?user=v7hMP8kAAAAJ&hl=en')
+name = "jahangir"
+url = 'https://scholar.google.com/citations?user=v7hMP8kAAAAJ&hl=en'
+papers = fetch_author_papers(url=url, author_name=name)
+print(f"Author: {name} and #papers: {len(papers)}")
 
-# name = "sai"
-# driver.get('https://scholar.google.com/citations?user=VjEGZJoAAAAJ&hl=en')
+name = "sai"
+url = 'https://scholar.google.com/citations?user=VjEGZJoAAAAJ&hl=en'
+papers = fetch_author_papers(url=url, author_name=name)
+print(f"Author: {name} and #papers: {len(papers)}")
 
-# name = "ismail"
-# driver.get('https://scholar.google.com/citations?user=FexryyIAAAAJ&hl=en')
+name = "ismail"
+url = 'https://scholar.google.com/citations?user=FexryyIAAAAJ&hl=en'
+papers = fetch_author_papers(url=url, author_name=name)
+print(f"Author: {name} and #papers: {len(papers)}")
 
 name = "abdullah"
-driver.get('https://scholar.google.com/citations?user=zQKHA64AAAAJ&hl=en')
+url = 'https://scholar.google.com/citations?user=zQKHA64AAAAJ&hl=en'
+papers = fetch_author_papers(url=url, author_name=name)
+print(f"Author: {name} and #papers: {len(papers)}")
 
 
 # Initialize a list to store all row data

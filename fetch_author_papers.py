@@ -86,6 +86,28 @@ def fetch_author_papers(url, author_name):
     return all_rows
 
 if __name__ == "__main__":
-    papers = fetch_author_papers('https://scholar.google.com/citations?user=zQKHA64AAAAJ&hl=en', "abdullah")
-    if len(papers) > 0:
-        print("Author papers fetched successfully")
+
+    # test cases 
+    name = "jahangir"
+    url = 'https://scholar.google.com/citations?user=v7hMP8kAAAAJ&hl=en'
+    papers = fetch_author_papers(url=url, author_name=name)
+    print(f"Author: {name} and #papers: {len(papers)}")
+    print(papers)
+
+    name = "sai"
+    url = 'https://scholar.google.com/citations?user=VjEGZJoAAAAJ&hl=en'
+    papers = fetch_author_papers(url=url, author_name=name)
+    print(f"Author: {name} and #papers: {len(papers)}")
+    print(papers)
+
+    name = "ismail"
+    url = 'https://scholar.google.com/citations?user=FexryyIAAAAJ&hl=en'
+    papers = fetch_author_papers(url=url, author_name=name)
+    print(f"Author: {name} and #papers: {len(papers)}")
+    print(papers)
+
+    name = "abdullah"
+    url = 'https://scholar.google.com/citations?user=zQKHA64AAAAJ&hl=en'
+    papers = fetch_author_papers(url=url, author_name=name)
+    print(f"Author: {name} and #papers: {len(papers)}")
+    print(papers)
