@@ -1,4 +1,6 @@
 import csv
+import time
+import random
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -28,6 +30,9 @@ def fetch_author_papers(url, author_name):
     # Initialize a list to store all row data
     all_rows = []
     driver = get_driver()
+    
+    # Generate a random delay between 10 and 30 seconds
+    time.sleep(random.uniform(10, 30))
     driver.get(url)
     try:
         # Find the table by ID
@@ -80,8 +85,9 @@ def fetch_author_papers(url, author_name):
         # Save the DataFrame to a CSV file
         df.to_csv(f'{author_name}_papers.csv', index=False)
 
-    # Close the WebDriver
-    driver.quit()
+    if driver is not None:
+        # Close the WebDriver
+        driver.quit()
 
     return all_rows
 
