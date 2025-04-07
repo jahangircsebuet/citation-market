@@ -1,0 +1,11 @@
+Name,Designation,Email,Research Topics
+Tarek Abdelrahman,Professor,tsa@eecg.utoronto.ca,"Parallel systems (e.g., multicores or GPUs) and their associated software"
+Ishtiaque Ahmed,Associate Professor,ishtiaque@cs.toronto.edu,"Computing for marginalized communities, critical computing, social justice, sustainability"
+Ashton Anderson,Associate Professor,ashton@cs.toronto.edu,"Empirical analysis of large-scale social data, social media analysis, social networks, community dynamics, fairness"
+Alán Aspuru-Guzik,Professor,aspuru@cs.toronto.edu,"Machine learning for molecular and materials discovery, robotic labs, quantum computing algorithms"
+Jimmy Ba,Associate Professor,jba@cs.toronto.edu,"Deep learning, neural networks, reinforcement learning, optimization"
+Ravin Balakrishnan,Professor,ravin@cs.toronto.edu,"Human-computer interaction, interactive graphics"
+Anthony Bonner,Associate Professor,bonner@cs.toronto.edu,"Deep learning, generative models, learning representations"
+Allan Borodin,University Professor,bor@cs.toronto.edu,"Algorithms, online algorithms, game theory, social choice theory"
+Angela Brown,"Professor, Associate Chair",demke@cs.toronto.edu,"File and storage systems, distributed systems, performance and reliability"
+Michael Brudno,Professor,brudno@cs.toronto.edu,"Clinical human-computer interaction, medical NLP, mobile health, genomics"

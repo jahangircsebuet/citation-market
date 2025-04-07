@@ -1,0 +1,11 @@
+Name,Designation,Email,Research Topics
+Alwen Tiu,Lecturer,a.tiu@imperial.ac.uk,"Formal methods, logics for distributed systems"
+Alessandro Abate,Professor,a.abate@imperial.ac.uk,"Formal verification, control theory, machine learning"
+Alastair Donaldson,Professor,alastair.donaldson@imperial.ac.uk,"Software analysis, programming languages, concurrency"
+Cristian Cadar,Reader,c.cadar@imperial.ac.uk,"Software engineering, security, testing"
+Paul Kelly,Professor,p.kelly@imperial.ac.uk,"Compilers, parallel computing, performance optimization"
+Sophia Ananiadou,Professor,s.ananiadou@imperial.ac.uk,"Natural language processing, biomedical text mining"
+Thomas Parisini,Professor,t.parisini@imperial.ac.uk,"Control systems, networked control, fault diagnosis"
+Peter Pietzuch,Professor,p.pietzuch@imperial.ac.uk,"Distributed systems, cloud computing, data analytics"
+Susan Eisenbach,Professor,s.eisenbach@imperial.ac.uk,"Programming languages, software verification"
+Daniel Rueckert,Professor,d.rueckert@imperial.ac.uk,"Medical image computing, machine learning, AI in healthcare"
