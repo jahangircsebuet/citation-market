@@ -1,0 +1,306 @@
+#1
+Palash Roy - done
+https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en
+#2
+Amit Kumar Nath - done
+https://scholar.google.com/citations?user=W7tZmREAAAAJ&hl=en
+#3
+Sujan Sarkar - done
+https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en
+#4
+Sejuti Rahman - done
+https://scholar.google.com/citations?user=j8XhiIEAAAAJ&hl=en
+#5
+Tonmoy Hossain - done
+https://scholar.google.com/citations?user=JoLJE7AAAAAJ&hl=en
+#6
+Faisal Muhammad Shah - done
+https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en
+#7
+ANGONA BISWAS - done
+https://scholar.google.com/citations?user=woiE2RUAAAAJ&hl=en
+#8
+Abdullah Nasim  - done
+https://scholar.google.com/citations?user=zQKHA64AAAAJ&hl=en
+9
+Jahangir Alam - done
+https://scholar.google.com/citations?user=v7hMP8kAAAAJ&hl=en
+10
+Sai Puppala - done
+https://scholar.google.com/citations?user=VjEGZJoAAAAJ&hl=en&oi=ao
+11
+Taminul - done
+https://scholar.google.com/citations?user=Kgo_S9sAAAAJ&hl=en
+12
+omar sharif - done
+https://scholar.google.com/citations?user=7wXskgQAAAAJ&hl=en
+13
+zobaer hasan - done
+https://scholar.google.com/citations?user=d1hN4nIAAAAJ&hl=en
+14
+Toqi - done
+https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en
+15
+khaled Ahmed - done
+https://scholar.google.com/citations?user=FYKqgh4AAAAJ&hl=en
+
+16
+Mamun - done
+https://scholar.google.com/citations?user=OUanlWAAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=-ej2vXoAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=8DESGtwAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=6IqTa8AAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=JLBWiJwAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=QsKnuRYAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=8vlRxUIAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=MAx74icAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=8GqJsfIAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=Chou2i8AAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=4O3KgKoAAAAJ&hl=en
+done
+https://scholar.google.com/citations?user=DEy33GsAAAAJ&hl=en
+
+https://scholar.google.com/citations?user=rhTE-e8AAAAJ&hl=en
+
+https://scholar.google.com/citations?user=ae8P7ccAAAAJ&hl=en
+
+https://scholar.google.com/citations?user=TXPQNWwAAAAJ&hl=en
+
+https://scholar.google.com/citations?user=5oeyIqEAAAAJ&hl=en
+
+https://scholar.google.com/citations?user=M1LDj9sAAAAJ&hl=en
+
+
+high citation count:
+https://scholar.google.com/citations?hl=en&user=K8vJkTcAAAAJ
+https://scholar.google.com/citations?hl=en&user=FoKQ_L4AAAAJ
+https://scholar.google.com/citations?hl=en&user=tFVYDw4AAAAJ
+https://scholar.google.com/citations?hl=en&user=cB3Vq9UAAAAJ
+https://scholar.google.com/citations?hl=en&user=3CS_ahUAAAAJ
+https://scholar.google.com/citations?hl=en&user=E_8U8i0AAAAJ
+https://scholar.google.com/citations?hl=en&user=c2FyjDwAAAAJ
+https://scholar.google.com/citations?hl=en&user=LjvTwaMAAAAJ
+https://scholar.google.com/citations?hl=en&user=2A3IqEsAAAAJ
+https://scholar.google.com/citations?hl=en&user=coMYAjAAAAAJ
+
+meeting minutes on 03/24/2025
+components:
+data collection
+AI prediction
+user study
+
+look into the literature - how they perform user study
+whether this is an issue
+
+participant 1 said . . .
+participant 2 said . . .
+participant N said . . .
+
+reach out to authors
+reach out to individual service providers in platform fivrr, upwork, 
+ask them provide some profiles who took services for citation boosting - we can label these profiles as malicious (we can consider )
+
+share a plan for this year with Professor, share a google doc 
+
+*look into jailbreak attack in Gen AI
+
+
+
+SSL meeting
+compare semi-supervised setup with with the chen paper
+what is base model (unlabelled setup), and its performance
+
+
+
+As per my knowledge, the paper presents a novel research work. 
+It performs a significant improvement over the previous work.
+It's a good fit for the AMCIS and can be approved for oral presentation. 
+
+
+
+In summary, this paper introduces HNSW++, an effort to address several limitations to improve the Hierarchical Navigable Small World (HNSW) algorithm for Approximate Nearest Neighbor (ANN) search. The key limitations of standard HNSW are susceptibility to local optima, poor inter-cluster connectivity, and inefficient layer-by-layer traversal which are addressed in this paper. 
+
+Strengths
+- authors propose three key innovations:  A dual-branch graph structure, Local Intrinsic Dimensionality (LID)-based node insertion and LID-guided skip-layer bridges.
+
+- perform comprehensive experiments on 12 datasets across various domains (CV, NLP, Recommendation Systems) and compare HNSW++ performance against multiple baselines. 
+
+- authors perform rigorous time complexity analysis and ablation studies which proves the effectiveness of the proposed framework
+
+
+Weaknesses
+-  Algorithms 2 - 5 needs proper formatting, currently which looks dense and compact
+
+- More literature study and the discussion of these work can make the literature study more comprehensive
+
+- More explanation on the criteria for activating skip connections i.e. choice of LID threshold and distance threshold could be more clearly explained and justified
+
+- More explanation on concepts like jump conditions and bridge selection would be better to understand the concepts clearly for the reader
+
+- Correcting some spelling error like "verrsion" need to be done
+
+- Clearer & more detailed explanation of the experimental results would be better for reader
+
+
+Overall, the paper can be accepted if the minor weaknesses are addressed. 
+
+
+
+meeting on 03/26/25
+- monthly target plan
+- 
+
+Chatgpt Prompt:
+provide me some research papers related to classification of research profile into malicious and benign classes based on citation manipulation, citation hike, citation fraud
+
+Response:
+​Detecting and classifying research profiles based on citation manipulation is a critical area of study aimed at preserving the integrity of academic metrics. Below is a selection of research papers that delve into various aspects of citation manipulation, including detection methods and the classification of research profiles into malicious and benign categories:​
+
+"Citation manipulation through citation mills and pre-print servers"
+
+Authors: [Not specified]​
+
+Published: February 2025​
+
+Summary: This study examines a dataset of approximately 1.6 million Google Scholar profiles to identify instances of citation fraud. It highlights how less restrictive indexing protocols, particularly those involving unmoderated sources like personal websites and specific pre-print servers, facilitate unique citation manipulation practices not observed in other bibliometric databases. ​
+Nature
+
+"Spotting Suspicious Academic Citations Using Self-Learning Graph Transformers"
+
+Authors: [Not specified]​
+
+Published: December 2022​
+BioRxiv
++6
+Financial Times
++6
+arXiv
++6
+
+Summary: This research introduces a novel method to detect potential citation manipulation in academic papers by employing perturbations of a deep embedding model, specifically utilizing Graph Masked Autoencoders. The approach integrates textual information with graph connectivity evidence to model citation distributions more effectively. ​
+MDPI
++2
+ResearchGate
++2
+MDPI
++2
+
+"Detecting anomalous citation groups in journal networks"
+
+Authors: Sadamori Kojaku, Giacomo Livan, Naoki Masuda​
+Wikipedia
++1
+ResearchGate
++1
+
+Published: July 2021​
+
+Summary: This paper focuses on identifying citation cartels—groups of journals that excessively cite each other's publications. The authors propose a method to detect such anomalous citation groups by analyzing within-group citation behaviors, thereby uncovering potential manipulative practices. ​
+Nature
++1
+Wikipedia
++1
+
+"Deep Graph Learning for Anomalous Citation Detection"
+
+Authors: Jiaying Liu, Feng Xia, Xu Feng, Jing Ren, Huan Liu​
+arXiv
+
+Published: February 2022​
+arXiv
+
+Summary: This study presents GLAD (Graph Learning for Anomaly Detection), a deep graph learning model designed to identify anomalies in citation networks. By incorporating both node and link attributes through graph neural networks, GLAD uncovers hidden relationships between papers and detects citation anomalies indicative of manipulation. ​
+arXiv
+
+"Sneaked references: Cooked reference metadata inflate citation counts"
+
+Authors: Lonni Besançon, Guillaume Cabanac, Cyril Labbé, Alexander Magazinov​
+arXiv
+
+Published: October 2023​
+Financial Times
++2
+arXiv
++2
+Financial Times
++2
+
+Summary: This paper reports on a method of citation manipulation involving 'sneaked' references—references registered in metadata but absent from the actual articles. The authors document how this practice artificially inflates citation counts and discuss its implications for bibliometric platforms and research evaluation. ​
+arXiv
+
+"Detecting Pseudo-Manipulated Citations in Scientific Literature"
+
+Authors: [Not specified]​
+
+Published: September 2022​
+BioRxiv
++6
+Financial Times
++6
+Nature
++6
+
+Summary: This study introduces a method to identify potential citation manipulation in academic papers by perturbing a deep embedding model. The approach aims to reconstruct meaningful citation connections within a network by exploring alternative paths, thereby detecting anomalies indicative of manipulation. ​
+MDPI
++2
+ResearchGate
++2
+MDPI
++2
+
+"Detecting potential reference list manipulation within a citation network"
+
+Authors: [Not specified]​
+
+Published: August 2020​
+Wikipedia
++1
+Financial Times
++1
+
+Summary: This research attempts a literature-wide, quantitative estimate of authors engaging in citation hacking. By analyzing references from recent papers, the study seeks to identify chronic offenders and understand the prevalence of citation manipulation practices. ​
+BioRxiv
+
+These papers provide insights into methodologies for detecting citation manipulation and offer frameworks for classifying research profiles based on citation behaviors. They contribute to the ongoing efforts to maintain the credibility and reliability of academic publishing.
+
+
+​Detecting and classifying research profiles based on citation manipulation, such as citation hikes or citation fraud, is a critical area of study in maintaining academic integrity. Below are some research papers and resources that delve into this topic:​
+
+"Deep Graph Learning for Anomalous Citation Detection"
+Authors: Jiaying Liu, Feng Xia, Xu Feng, Jing Ren, Huan Liu
+Published: February 2022
+This paper introduces GLAD (Graph Learning for Anomaly Detection), a deep graph learning model designed to identify anomalies in citation networks. By incorporating text semantics and network representation learning, GLAD aims to detect manipulated citations effectively.
+
+"Improving Academic Plagiarism Detection for STEM Documents by Analyzing Mathematical Content and Citations"
+Authors: Norman Meuschke, Vincent Stange, Moritz Schubotz, Michael Karmer, Bela Gipp
+Published: June 2019
+This study explores enhancing plagiarism detection by analyzing mathematical content and citation patterns in STEM documents. The approach aims to identify concealed plagiarism and citation manipulation.
+
+"Bibliometrics Methods in Detecting Citations to Questionable Journals"
+Published: 2023
+This research discusses bibliometric methods to detect citations directed toward questionable journals, addressing concerns about citation contamination and its impact on research integrity.
+
+"Classification Method for Detecting Coercive Self-Citation in Journals"
+This study develops a method to automatically identify journals engaging in coercive self-citation using a classification model, contributing to the detection of citation manipulation practices.
+
+"Authorship and Citation Manipulation in Academic Research"
+Published: December 2017
+This paper examines how intense competition for journal space and research funding can lead to authorship and citation manipulation, providing a framework to understand these unethical practices.
+
+These resources offer insights into methodologies and frameworks developed to detect and classify research profiles based on citation manipulation, contributing to the broader effort of maintaining academic integrity.
+
+
